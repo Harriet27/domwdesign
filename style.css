@@ -1,0 +1,26 @@
+table, tr, th, td {
+    border: 1px solid #FF6B52;
+    border-collapse: collapse;
+    /* border-radius: 5px; */
+    padding: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+div {
+    border-radius: 15px;
+    background-color: #f2f2f2;
+    padding: 20px;
+    width: 500px;
+}
+
+.mainHeader {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.loginBtn {
+    border: 2px solid #4D70FF;
+    padding: 10px 20px;
+    text-align: center;
+    font-size: 16px;
+    border-radius: 10px;
+}
